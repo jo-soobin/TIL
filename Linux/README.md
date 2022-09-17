@@ -171,4 +171,3 @@
 - [그림자료](https://github.com/coder/code-server/issues/454)
 - [설명참조](https://pinkwink.kr/1343)
     
-아파치 서버로 웹페이지 접속 화면
