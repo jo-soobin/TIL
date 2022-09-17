@@ -5,10 +5,10 @@
 2. `bash` 명령어 입력
 
     ▼ ubuntu 환경에서 wsl 실행 완료
-    ![bash](./bash.png)
+    <img src="Linux/../bash.png" > 
 
     
-1. 
+3. 
 코드~
 사진
 
