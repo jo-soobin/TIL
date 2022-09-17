@@ -153,14 +153,22 @@
 
 <br>
 
-<br>
-
-<br>
-
 ##### [참고 자료]
 
 - [링크](https://github.com/gyoogle/tech-interview-for-developer)
+---
+> ## wsl - Vscode 연동 사용 시 오류 해결
+- Linux 환경의 파일을 windows 내 Visual Studio Code로 수정 작업 시, 아래와 같은 저장 error가 발생할 수 있다.
+  
+     ▼ 권한 문제로 파일 저장 불가
+    ![error](https://user-images.githubusercontent.com/11641437/55679156-609a9300-5941-11e9-841a-faefa887d236.png)
 
-vscode 연동 사용 시 오류 해결
+* **저장 오류 해결법**
+  
+  `sudo chown -R *[user명]* *[파일/디렉토리명]*`
 
+    ##### [참고자료]
+    - [그림자료](https://github.com/coder/code-server/issues/454)
+    - [설명참조](https://pinkwink.kr/1343)
+    
 아파치 서버로 웹페이지 접속 화면
