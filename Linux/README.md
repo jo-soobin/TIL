@@ -165,10 +165,10 @@
 
 * **저장 오류 해결법**
   
-  `sudo chown -R *[user명]* *[파일/디렉토리명]*`
+  ```sudo chown -R [user명] [파일/디렉토리명]```
 
-    ##### [참고자료]
-    - [그림자료](https://github.com/coder/code-server/issues/454)
-    - [설명참조](https://pinkwink.kr/1343)
+##### [참고자료]
+- [그림자료](https://github.com/coder/code-server/issues/454)
+- [설명참조](https://pinkwink.kr/1343)
     
 아파치 서버로 웹페이지 접속 화면
